@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Json">
+    <output-path>$PROJECT_DIR$/out/artifacts/Json</output-path>
+    <root id="archive" name="Json.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/Java/Demo/tool/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
