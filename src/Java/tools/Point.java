@@ -1,9 +1,10 @@
-package Week3;
+package tools;
 
 public class Point {
     private Integer x;
     private Integer y;
     public Double dis;
+    private static int num=0;
 
     public Point(Integer x, Integer y) {
         this.x = x;
